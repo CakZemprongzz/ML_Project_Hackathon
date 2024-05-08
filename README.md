@@ -1,2 +1,3 @@
 # ML_Project_Hackathon
-Hackathon Project
+
+Using dataset from Kaggle, This project is to predict anomaly in the network
